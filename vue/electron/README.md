@@ -1,3 +1,5 @@
+# Electron
+Electron is a framework for building cross-platform desktop applications with web technology.
 
 # 环境搭建
 - [node:8.9.3](http://nodejs.cn/download/)
