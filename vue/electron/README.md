@@ -23,6 +23,11 @@ $ npm install --global --production windows-build-tools
 # Demo
 - https://github.com/sohelamin/electron-vue-boilerplate
 
+```
+$ npm run build
+$ npm run package-osx | npm run package-win
+```
+
 
 
 
