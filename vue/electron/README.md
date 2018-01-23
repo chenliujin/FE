@@ -1,3 +1,6 @@
+# Electron
+Electron is a framework for building cross-platform desktop applications with web technology.
+
 
 
 
@@ -30,9 +33,6 @@
 - alwaysOnTop Boolean (可选) -窗口是否永远在别的窗口的上面. 默认值为false.
 - fullscreen Boolean (可选) - 窗口是否可以全屏. 当设置为 false 时，在 macOS 上全屏的按钮将被隐藏或禁用. 默认值为 false.
 
-
-# Electron
-Electron is a framework for building cross-platform desktop applications with web technology.
 
 # 环境搭建
 - [node:8.9.3](http://nodejs.cn/download/)
