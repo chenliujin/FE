@@ -51,6 +51,8 @@ $ npm run package-osx | npm run package-win
 ```
 
 
+# Docs
+- [BrowserWindow](https://electronjs.org/docs/api/browser-window)
 
 
 
