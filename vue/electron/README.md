@@ -1,4 +1,10 @@
 
+
+- 双向数据绑定
+
+
+
+
 - 登陆/登出
 - 动态侧边栏
 - 软键盘
@@ -50,5 +56,7 @@ $ npm run package-osx | npm run package-win
 
 
 # 参考文献
+- [electron-vue 官方文档](https://simulatedgreg.gitbooks.io/electron-vue/content/cn/)
 - [win环境，构建 electron+vue demo的准备工作](https://newsn.net/say/electron-vue-demo-win-prepare.html)
 - [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
+
