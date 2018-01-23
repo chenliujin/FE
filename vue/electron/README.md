@@ -1,3 +1,9 @@
+
+- 分辨率
+- 桌面最大化
+- 隐藏最小化和关闭按钮
+
+
 # Electron
 Electron is a framework for building cross-platform desktop applications with web technology.
 
