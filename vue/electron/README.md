@@ -82,6 +82,7 @@ $ npm run package-osx | npm run package-win
 
 # 参考文献
 - [Electron 文档](https://electronjs.org/docs/api)
+- [Electron 中文文档](https://www.w3cschool.cn/electronmanual/)
 - [electron-vue 官方文档](https://simulatedgreg.gitbooks.io/electron-vue/content/cn/)
 - [win环境，构建 electron+vue demo的准备工作](https://newsn.net/say/electron-vue-demo-win-prepare.html)
 - [electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
