@@ -1,10 +1,15 @@
 
-- 路由
-- 调用 api
 
 
 
-- vue-cli
+- axios: 调用 API
+- vue-router: 路由
+
+
+
+
+
+
 
 
 
