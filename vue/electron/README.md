@@ -3,7 +3,6 @@ Electron is a framework for building cross-platform desktop applications with we
 
 
 
-- vue-cli: 脚手架工具，用来创建新项目的基础文件和目录
 - 打包应用程序
 
 
