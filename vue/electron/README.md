@@ -24,6 +24,11 @@ $ npm config set electron_mirror http://npm.taobao.org/mirrors/electron/
 $ npm install -g vue-cli
 ```
 
+# 安装 yarn
+```
+$ npm install -g yarn
+```
+
 # 重点，安装windows-build-tools
 ```
 $ npm install --global --production windows-build-tools
