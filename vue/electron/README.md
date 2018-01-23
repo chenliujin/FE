@@ -29,7 +29,6 @@ Electron is a framework for building cross-platform desktop applications with we
 
 
 # browser-window
-- 窗口默认最大化
 - resizable Boolean (可选) - 窗口是否可以改变尺寸. 默认值为 true. 
 - movable Boolean (可选) - 窗口是否可以移动. 在 Linux 中无效. 默认值为 true. 
 - minimizable Boolean (可选) - 窗口是否可以最小化. 在 Linux 中无效. 默认值为 true. 
