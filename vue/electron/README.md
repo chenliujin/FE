@@ -5,7 +5,6 @@ Electron is a framework for building cross-platform desktop applications with we
 # 组件
 - vue-cli
 - vue-electron
-- [Element](http://element-cn.eleme.io/#/zh-CN)
 
 
 - 打包应用程序
