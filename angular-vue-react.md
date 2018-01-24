@@ -18,3 +18,4 @@
 - [Google Trends](https://trends.google.co.jp/trends/explore?q=vue,angular)
 - https://zhangchen915.gitbooks.io/angular2-training/content/
 - https://segmentfault.com/a/1190000008205112
+- https://news.cnblogs.com/n/586228/
