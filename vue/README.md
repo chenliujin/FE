@@ -3,13 +3,13 @@
 
 
 # 技术栈
-- axios: 调用 API
-- vue-router: 路由
-- webpack
+- [vue-router](https://github.com/vuejs/vue-router)
 - [iView](https://www.iviewui.com/)
 - [Element](http://element-cn.eleme.io/#/zh-CN)
 - [Weex](https://github.com/apache/incubator-weex)
 - [vue-touch-keyboard](https://github.com/icebob/vue-touch-keyboard)
+- axios: 调用 API
+- webpack
 
 
 ## 移动端
