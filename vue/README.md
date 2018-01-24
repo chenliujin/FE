@@ -7,6 +7,7 @@
 - vue-router: 路由
 - webpack
 - iView
+- [vue-echarts](https://github.com/Justineo/vue-echarts)
 
 
 
