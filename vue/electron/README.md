@@ -66,6 +66,7 @@ $ npm install --global --production windows-build-tools
 
 # Demo
 - https://github.com/sohelamin/electron-vue-boilerplate
+- https://github.com/ilyagru/Space-Snake
 
 ```
 $ npm run build
