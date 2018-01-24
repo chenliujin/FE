@@ -16,3 +16,5 @@
 - https://www.majidhajian.com/Angular2-Vue2-Ember-and-React-comparison/
 - https://blog.fundebug.com/2017/09/20/why-we-moved-from-angular2-to-vue/
 - [Google Trends](https://trends.google.co.jp/trends/explore?q=vue,angular)
+- https://zhangchen915.gitbooks.io/angular2-training/content/
+- https://segmentfault.com/a/1190000008205112
